@@ -8,7 +8,7 @@ const hankenGrotesk = Hanken_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Corridor Hub",
+  title: "TADJI Hub",
   description: "Plateforme de gestion centralisée",
 };
 
