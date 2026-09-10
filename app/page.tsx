@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const APPLICATIONS = [
   {
-    name: "TADJI ECOFLEET",
+    name: "TADJI TRANSPORT",
     description: "Gestion complète du parc automobile, version 2",
     href: "https://tadji-ecofleet.kiri-app.com/",
     icon: (
@@ -12,7 +12,7 @@ const APPLICATIONS = [
     ),
   },
   {
-    name: "Corridor Appro",
+    name: "TADJI APPRO",
     description: "gestion de la chaine d'approvisionnement",
     href: "https://tadji-appro.kiri-app.com",
     icon: (
